@@ -32,5 +32,6 @@ This project includes testing scenarios for Entrata website, which uses Selenium
 - Maven
 - WebDriver executable (e.g., chromedriver.exe)
 
-Run mvn Verify command
-
+## Execute Tests
+- Open command prompt in project root directory: "\Entrata_Assignment"
+- Run command: "mvn verify"
